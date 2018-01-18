@@ -5,8 +5,6 @@ This is my [submission](http://globalgamejam.org/2016/games/hexahedral) to the
 
 ![Screenshot](https://raw.github.com/mminer/hexahedral/master/screenshot.png)
 
-Push down all the blocks in the minimum number of moves. Exciting? Hoo boy, you
-bet your sweet granddaddy it is.
 
 Play in your browser of choice. It works on mobile, but hasn't been especially
 well optimized for it.
